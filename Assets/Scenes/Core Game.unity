@@ -291,8 +291,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -241, y: -66.48985}
-  m_SizeDelta: {x: 443.03394, y: 125.03339}
+  m_AnchoredPosition: {x: -219.92, y: -64.503}
+  m_SizeDelta: {x: 485.19946, y: 129.00656}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &231880602
 MonoBehaviour:
@@ -938,7 +938,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.07058824, g: 0.1882353, b: 0.36862746, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1116,7 +1116,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SUCCESS
+  m_text: CORRECT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5eea4fe7f76c745c9bcc63005a86d477, type: 2}
   m_sharedMaterial: {fileID: -5442289786953417975, guid: 5eea4fe7f76c745c9bcc63005a86d477,
